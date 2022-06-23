@@ -1,0 +1,14 @@
+body {
+    background-color: grey;
+    margin-top: 0px;
+
+}
+#whitebox {
+    max-width: 800px;
+    background: #ccc;
+    height: max-content; 
+}
+
+h1 {
+    margin-top: 0px;
+}
